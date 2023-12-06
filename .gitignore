@@ -1,0 +1,9 @@
+# back-end
+**/__pycache__/
+
+# data
+data/mongo
+data/misc
+
+#vs code
+.vscode/
